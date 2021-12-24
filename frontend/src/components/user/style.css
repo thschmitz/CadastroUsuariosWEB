@@ -1,0 +1,14 @@
+thead.test th{
+    padding: 12px 12px 12px 12px;
+    justify-content: space-around;
+}
+
+tr.test td{
+    padding: 12px 12px 12px 12px
+}
+
+.fullSpace{
+    margin-top: 40px;
+    width: 100%;
+}
+
